@@ -1,0 +1,49 @@
+
+body{
+
+    background-image: url(https://images.uncyc.org/pt/b/be/Sakura-super1.gif);
+    background-repeat: no-repeat;
+    background-size: 80%;
+    background-color: rgb(4, 43, 136);
+    
+    
+}
+
+.relogio{
+
+    
+    width: 21rem;
+    display: flex;
+    font-family:  'Bungee Spice', cursive;;
+    font-size: 80px;
+    margin-top: 5rem;
+    margin-left: 60rem;
+    background-image: url(https://www.imagensanimadas.com/data/media/41/relampago-e-raio-imagem-animada-0014.gif);
+    background-size: 30%;
+    
+}
+
+footer{
+
+    background-color: rgba(88, 22, 9, 0.926);
+    color: rgb(255, 255, 255);
+    justify-content: center;
+    padding: 5px;
+    width: 100%;
+    position: fixed;
+    display: flex;
+    font-family:'Nabla', cursive;;
+    bottom: 0vh;
+    left: 0;
+    text-align: center;
+    font-size: 20px;
+   
+}
+
+a{
+    color: rgb(44, 187, 59);
+    font-family:  'Nabla', cursive;;
+    text-decoration: none;
+    font-size: 20px;
+    
+}
